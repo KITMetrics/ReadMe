@@ -1,6 +1,6 @@
-## <img src="pics/Project.png" width="60" /> **SFM2-SS16-ToDo**
+## <img src="pics/Project.png" width="60" /> **KITMetrics**
 
-Description: For the student projects of SFM2 SS16
+Description:
 
 __This repository includes:__
 - Data2004-2014: The dataset used to update the Qs. (Q = Quantlet)
@@ -12,7 +12,6 @@ __Workflow:__
 - Clone to your local folder
 - Repair the Q with the new dataset
 - Pull request to the master
-
 
 
 __Q respository:__
