@@ -13,3 +13,5 @@ __Workflow:__
 - Fork the desired Repository from your account to [KITMetrics](https://github.com/KITMetrics)
 - Please note: The pull requests you make on your own folder will not be 
 
+__Tutorial:__
+- Please refer to [GitHub Guides](https://guides.github.com)
