@@ -11,7 +11,7 @@ Link: Karlsruher Institut für Technologie (KIT), [Lehrstuhl für Ökonometrie u
 - Creat a GitHub account
 - Work on the Repository on your account
 - Fork the desired Repository from your account to [KITMetrics](https://github.com/KITMetrics)
-- Please note: The pull requests you make on your own folder will not be 
+- Please note: When thinking about branches, remember that the base branch is where changes should be applied.
 
 <img src="icons/n31.png" width="40" />__Tutorial:__
 - Please refer to [GitHub Guides](https://guides.github.com)
