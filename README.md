@@ -1,11 +1,10 @@
 ## <img src="Project.png" width="60" /> **KITMetrics**
 
-Description:
+Link: Karlsruher Institut für Technologie (KIT), [Lehrstuhl für Ökonometrie und Statistik (STAT)](http://statistik.econ.kit.edu/index.php)
 
 __This repository includes:__
-- Data2004-2014: The dataset used to update the Qs. (Q = Quantlet)
-- Every Q has to be in its own subfolder in the repository, e.g. [SFEReturns](https://github.com/QuantLet/SFE-ToDo/tree/master/SFEReturns)
-- Styleguide and FAQ - [General Rules](https://github.com/QuantLet/Styleguide-and-FAQ)
+- The research paper and relevant data.
+- 
 
 __Workflow:__
 - Find the corresponding Q of your project (if not, search [SFE-Ready](https://github.com/QuantLet/SFE-Ready) and send me the name of Q)
