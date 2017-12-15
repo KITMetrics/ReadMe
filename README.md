@@ -2,7 +2,7 @@
 
 Link: Karlsruher Institut für Technologie (KIT), [Lehrstuhl für Ökonometrie und Statistik (STAT)](http://statistik.econ.kit.edu/index.php)
 
-__This repository includes:__
+<img src="icons/n1.png" width="30" />__This repository includes:__
 - The research paper and relevant data.
 - The student projects.
 - and so on.
