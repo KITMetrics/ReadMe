@@ -1,4 +1,4 @@
-## <img src="pics/Project.png" width="60" /> **KITMetrics**
+## <img src="Project.png" width="60" /> **KITMetrics**
 
 Description:
 
