@@ -4,19 +4,12 @@ Link: Karlsruher Institut für Technologie (KIT), [Lehrstuhl für Ökonometrie u
 
 __This repository includes:__
 - The research paper and relevant data.
-- 
+- The student projects.
+- and so on.
 
 __Workflow:__
-- Find the corresponding Q of your project (if not, search [SFE-Ready](https://github.com/QuantLet/SFE-Ready) and send me the name of Q)
-- Clone to your local folder
-- Repair the Q with the new dataset
-- Pull request to the master
+- Creat a GitHub account
+- Work on the Repository on your account
+- Fork the desired Repository from your account to [KITMetrics](https://github.com/KITMetrics)
+- Please note: The pull requests you make on your own folder will not be 
 
-
-__Q respository:__
-
-Every QuantLet Repository consists of four elementary parts (Readme.md is not included because it can be automatically provided to your repository by Q team):
-- input, e.g. dataset
-- code
-- output, e.g. figure
-- Metainfo.txt 
